@@ -1,0 +1,1 @@
+export { watchPollSensorsData } from './pollSensorsData';
